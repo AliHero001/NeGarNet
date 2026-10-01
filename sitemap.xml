@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://sitemaps.org">
-  <url><loc>https://github.io</loc><priority>1.0</priority></url>
-  <url><loc>https://github.ioabout.html</loc><priority>0.8</priority></url>
-  <url><loc>https://github.ioservices.html</loc><priority>0.8</priority></url>
-  <url><loc>https://github.ioprojects.html</loc><priority>0.8</priority></url>
-  <url><loc>https://github.iopricing.html</loc><priority>0.8</priority></url>
-  <url><loc>https://github.ionews.html</loc><priority>0.8</priority></url>
-  <url><loc>https://github.iocontact.html</loc><priority>0.8</priority></url>
-  <url><loc>https://github.ioconsultation.html</loc><priority>0.7</priority></url>
-  <url><loc>https://github.ioservice-request.html</loc><priority>0.7</priority></url>
-  <url><loc>https://github.iologin.html</loc><priority>0.5</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://alihero001.github.io/NeGarNet/</loc><priority>1.0</priority></url>
+  <url><loc>https://alihero001.github.io/NeGarNet/about.html</loc><priority>0.8</priority></url>
+  <url><loc>https://alihero001.github.io/NeGarNet/services.html</loc><priority>0.8</priority></url>
+  <url><loc>https://alihero001.github.io/NeGarNet/projects.html</loc><priority>0.8</priority></url>
+  <url><loc>https://alihero001.github.io/NeGarNet/pricing.html</loc><priority>0.8</priority></url>
+  <url><loc>https://alihero001.github.io/NeGarNet/news.html</loc><priority>0.8</priority></url>
+  <url><loc>https://alihero001.github.io/NeGarNet/contact.html</loc><priority>0.8</priority></url>
+  <url><loc>https://alihero001.github.io/NeGarNet/consultation.html</loc><priority>0.7</priority></url>
+  <url><loc>https://alihero001.github.io/NeGarNet/service-request.html</loc><priority>0.7</priority></url>
 </urlset>

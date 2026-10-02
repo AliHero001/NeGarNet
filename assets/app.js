@@ -18,6 +18,9 @@ if (toggle && nav) {
 }
 
 const revealElements = document.querySelectorAll(".reveal");
+revealElements.forEach((element, index) => {
+  element.style.setProperty("--reveal-delay", `${(index % 4) * 80}ms`);
+});
 if ("IntersectionObserver" in window) {
   const observer = new IntersectionObserver((entries) => {
     entries.forEach((entry) => {

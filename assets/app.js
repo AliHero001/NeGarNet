@@ -50,6 +50,11 @@ document.querySelectorAll("form[data-mailto]").forEach((form) => {
         return `${label}: ${field.value.trim()}`;
       })
       .join("\n");
+    const phone = form.dataset.whatsapp;
+    if (phone) {
+      window.location.href = `https://wa.me/${phone}?text=${encodeURIComponent(body)}`;
+      return;
+    }
     const subject = form.dataset.subject || "پیام از وب‌سایت نگار نت";
     window.location.href = `mailto:${form.dataset.mailto}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   });

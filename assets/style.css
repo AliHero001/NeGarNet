@@ -1,7 +1,7 @@
 
 :root{
   --primary:#37d2ff;--secondary:#1f5c6e;--green:#0e7c5a;--bg:#f9f9f9;--surface:#fff;
-  --text:#14201a;--muted:#7c8b82;--soft:#eff5f1;--border:#b5bdbc;--dark:#111;
+  --text:#14201a;--muted:#5f6d64;--soft:#eff5f1;--border:#b5bdbc;--dark:#111;
   --container:1140px;--wide:1340px;--radius:8px;
 }
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--text);font-family:"Vazirmatn",Tahoma,Arial,sans-serif;line-height:1.75}
